@@ -224,7 +224,7 @@ The project is developed incrementally to demonstrate infrastructure evolution.
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/selenasat/terraform-serverless-document-processor.git>
 
 cd terraform-serverless-document-processor
 ```
