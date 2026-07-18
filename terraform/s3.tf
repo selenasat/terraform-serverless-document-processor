@@ -20,7 +20,7 @@ resource "aws_s3_bucket_versioning" "documents_versioning" {
   versioning_configuration {
     status = "Enabled"
   }
-}  
+}
 
 /* 
 Enables default 256-bit AES encryption for your S3 bucket
